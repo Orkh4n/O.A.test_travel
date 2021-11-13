@@ -1,0 +1,183 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+}
+.oxmain{
+    width: 1510px;
+    height: 786px;
+}
+.oxlogo{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 191px;
+    top: 45px;
+    background: #FB8F1D;;
+    border: 13px solid green;
+    border-radius: 50%;
+}
+.oxnavbar{
+    position: absolute;
+    width: 663px;
+    height: 60px;
+    left: 747px;
+    top: 35px;
+
+}
+.list{
+    display: inline-flex;
+    margin: 0;
+    
+
+
+}
+.list li{
+    margin: 21px 34px 20px 0;
+    font-family: IrisUPC;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    list-style: none;
+    color: #B8BECD;
+    transition: 0.5s;
+}
+.list li:hover{
+    color: black;
+    cursor: pointer;
+    font-weight: 500;
+    
+}
+.oxbtn{
+    width: 132px;
+    height: 44px;
+    margin: 8px 0;
+    border: 1px solid #FB8F1D;
+    border-radius: 8px;
+    color:#FB8F1D ;
+    transition: 0.5s;
+}
+.oxbtn:hover{
+    background: #FB8F1D;
+    color: white;
+}
+.oxheader{
+    width: 356px;
+    height: 160px;
+    position: absolute;
+    top: 200px;
+    left: 190px;
+    
+}
+.oxheader h1{
+    font-family: Lucida Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 54px;
+    line-height: 80px;
+    margin: 0;
+}
+/* body */
+.oxfinder{
+    width: 470px;
+    height: 344px;
+    position: absolute;
+    top: 435px;
+    left: 190px;
+
+}
+.input_type{
+    width: 460px;
+    height: 250px;
+    position: absolute;
+    top: 96px;
+    left: 8px;
+}
+
+.oxfinder h3{
+    position: absolute;
+    bottom: 317px;
+    right: 320px;
+    margin: 0;
+}
+.oxfinder input{
+    width: 180px;
+    height: 52px; 
+    margin: 20px;
+}
+.oxfinder button{
+    position: absolute;
+    top: 280px;
+    left: 26px;
+}
+.main_img{
+    position: absolute;
+    top: 167px;
+    left: 808px;
+}
+/* section1 */
+.oxsection1{
+    position: absolute;
+    width: 1242px;
+    height: 550px;
+    left: 141px;
+    top: 1091px;
+}
+.oxart{
+    width: 480px;
+    height: 333px;
+    position: absolute;
+    top: 112px;
+    left: 760px;
+}
+.oxart h2{
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: Lucida Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 50px;
+    margin: 0;
+}
+.oxart p{
+    position: absolute;
+    top: 120px;
+    left: 0;
+    font-family:Calibri Light;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 30px;
+    
+}
+/* section2 */
+.oxsection2{
+    width: 1240px;
+    height: 530px;
+    position: absolute;
+    top: 1900px;
+    left: 120px;
+}
+.section_img{
+    width: 1000px;
+    height: 300px;
+    position: absolute;
+    top: 136px;
+    left: 119px;
+
+}
+.section_img img{
+    margin-right: 25px;
+}
+.oxsection2 h2{
+    position: absolute;
+    top: 30px;
+    left: 119px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 50px;
+}
